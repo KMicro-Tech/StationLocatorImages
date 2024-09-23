@@ -9,4 +9,4 @@ pages:
     paths:
       - .public
   tags:
-    - clean-energy  # Specify the runner tag here
+    - clean-energy-data  # Specify the runner tag here
