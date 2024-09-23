@@ -1,8 +1,12 @@
+image: node:latest
+
 pages:
   stage: deploy
   script:
     - mkdir .public
-    - cp *.json .public/
+    - cp *.json .public/  # Copy JSON files to the public directory
   artifacts:
     paths:
       - .public
+  tags:
+    - clean-energy-data  # Specify the runner tag here
