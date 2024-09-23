@@ -3,8 +3,11 @@ image: node:latest
 pages:
   stage: deploy
   script:
-    - mkdir .public
-    - cp *.json .public/  # Copy JSON files to the public directory
+    - echo "Current directory contents:"
+    - ls -la  # List files for debugging
+    - mkdir -p .public/Data .public/MobileApp  # Create directories in .public
+    - cp Data/*.json .public/Data/  # Copy JSON files from Data folder
+    - cp MobileApp/*.json .public/MobileApp/  # Copy JSON files from MobileApp folder
   artifacts:
     paths:
       - .public
