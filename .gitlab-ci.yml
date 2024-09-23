@@ -1,0 +1,7 @@
+pages:
+  script:
+    - mkdir .public
+    - cp *.json .public/
+  artifacts:
+    paths:
+      - .public
