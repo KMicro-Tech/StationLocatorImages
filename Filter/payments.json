@@ -1,1 +1,19 @@
+[
+  { "cedc_CC_Amex": "American Express" },
+  { "cedc_CC_CleanEnergy": "Clean Energy" },
+  { "cedc_CC_ComData": "Comdata" },
+  { "cedc_CC_Discover": "Discover" },
+  { "cedc_CC_EFS": "EFS" },
+  { "cesrv_CCFleetOne": "Fleet One" },
+  { "cesrv_CC_Fuelman": "Fuelman" },
+  { "cedc_CC_MasterCard": "Mastercard" },
+  { "cedc_CC_MasterCardFleet": "Mastercard Fleet" },
+  { "cedc_CC_TCH": "TCH" },
+  { "cedc_CC_Tcheck": "T-Chek" },
+  { "cedc_CC_Visa": "Visa" },
+  { "cedc_CC_VisaFleet": "Visa Fleet" },
+  { "cedc_CC_Voyager": "Voyager" },
+  { "cesrv_cc_wex": "WEX" },
+  { "cesrv_cc_wexcrossroads": "WEX CrossRoads" }
+]
 
