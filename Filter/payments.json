@@ -14,5 +14,8 @@
   "cedc_CC_VisaFleet": "Visa Fleet",
   "cedc_CC_Voyager": "Voyager",
   "cesrv_cc_wex": "WEX",
-  "cesrv_cc_wexcrossroads": "WEX CrossRoads"
+  "cesrv_cc_wexcrossroads": "WEX CrossRoads",
+  "cedc_CC_LegacyEFS": "Legacy EFS",
+  "cedc_CC_PFGiftCard": "PFGift Card",
+  "cedc_CC_Speedway": "Speedway"
 }
