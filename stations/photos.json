@@ -1,6 +1,7 @@
 {
   "13010": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13010-Oakland_CA_Airport.jpg",
   "13090": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13090-Oakland_CA_Port.jpg",
+  "13109": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13109-ChulaVista_CA_Maxwell.jpg",
   "13160": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13160-PortLB_CA.jpg",
   "13170": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13170-Pomona_CA_Foothill.jpg",
   "13200": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13200-LosAngeles_CA_LAX_South.jpg",
@@ -18,6 +19,7 @@
   "13420": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13420-PalmDesert_CA_Burrtec.jpg",
   "13441": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13441-SanJuanCapistrano.jpg",
   "13480": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13480-Carson_CA_CarsonSt.jpg",
+  "13505": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13505-LaJolla_CA_Voigt.jpg",
   "13540": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13540-Ontario_CA_Airport.jpg",
   "13660": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13660-Riverside_CA_County.jpg",
   "13680": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/13680-SanFrancisco_CA_SFO.jpg",
@@ -34,6 +36,7 @@
   "16891": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/16891-Austin_TX_Airport.jpg",
   "18543": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/18543-Lathrop_CA_FoodExpress.jpg",
   "20147": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/20147-WestSacramento_CA_Capitol_AMZN.jpg",
+  "20187": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/20187-SaltLakeCity_UT_W2100.jpg",
   "20256": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/20256-Denver_CO_Conoco.jpg",
   "20315": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/20315-SanJose_CA_Refuel.jpg",
   "20319": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/20319-Perris_CA_Cajalco.jpg",
@@ -50,6 +53,7 @@
   "21072": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/21072-Romeoville_IL_21072_AMZN.jpg",
   "21076": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/21076-CarneysPoint_NJ_CentSchoolhouse_21076_AMZ.jpg",
   "21078": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/21078-OklahomaCity_OK_29th_21078_AMZN.jpg",
-  "21119": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/21119-Haslet_TX_21119_AMZN.jpg"
-  
+  "21119": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/21119-Haslet_TX_21119_AMZN.jpg",
+  "21264": "https://raw.githubusercontent.com/KMicro-Tech/StationLocatorImages/refs/heads/main/stations/photos/21264-Calgary_AB_15thStr.jpg"
+ 
   }
