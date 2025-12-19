@@ -17,7 +17,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.6934,
         "Longitude":-117.93672,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -49,7 +49,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.70398,
         "Longitude":-117.86382,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -81,7 +81,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.63182,
         "Longitude":-117.92771,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -113,7 +113,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.83758,
         "Longitude":-104.70873,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -145,7 +145,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.80318,
         "Longitude":-117.8745,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -177,7 +177,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.71436,
         "Longitude":-117.99584,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -207,7 +207,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.67498,
         "Longitude":-117.76468,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -242,7 +242,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.21466,
         "Longitude":-110.94575,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -274,7 +274,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.57267,
         "Longitude":-75.05342,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_visa":"Visa",
             "cedc_cc_amex":"American Express",
             "cedc_cc_voyager":"Voyager",
@@ -302,7 +302,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.86372,
         "Longitude":-117.23469,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -334,7 +334,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":43.13411,
         "Longitude":-76.08705,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -364,7 +364,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.11779,
         "Longitude":-116.45723,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -396,7 +396,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.94317,
         "Longitude":-116.4979,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -428,7 +428,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.13657,
         "Longitude":-81.31909,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_visa":"Visa",
             "cedc_cc_amex":"American Express",
             "cedc_cc_discover":"Discover",
@@ -453,7 +453,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.81941,
         "Longitude":-116.50942,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -485,7 +485,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.91636,
         "Longitude":-84.27496,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -517,7 +517,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.7449,
         "Longitude":-116.36226,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -549,7 +549,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.95288,
         "Longitude":-118.37736,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -584,7 +584,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":36.12311,
         "Longitude":-115.17872,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -616,7 +616,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":30.32818,
         "Longitude":-81.6769,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -648,7 +648,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":36.22057,
         "Longitude":-115.12773,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -680,7 +680,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.52021,
         "Longitude":-117.66714,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -712,7 +712,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.71865,
         "Longitude":-73.92952,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -744,7 +744,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.64338,
         "Longitude":-73.70474,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -774,7 +774,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.05581,
         "Longitude":-76.32764,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -806,7 +806,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.83186,
         "Longitude":-118.23516,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -841,7 +841,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.80854,
         "Longitude":-104.98862,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -876,7 +876,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":38.32115,
         "Longitude":-122.31081,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -908,7 +908,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.05277,
         "Longitude":-74.85186,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -940,7 +940,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.88019,
         "Longitude":-117.2209,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -972,7 +972,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.80535,
         "Longitude":-72.93775,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1004,7 +1004,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.87322,
         "Longitude":-73.27403,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1036,7 +1036,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.81766,
         "Longitude":-96.98942,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1071,7 +1071,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.7773,
         "Longitude":-96.81314,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1106,7 +1106,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.9409,
         "Longitude":-72.65229,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1137,7 +1137,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.76736,
         "Longitude":-96.80643,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1169,7 +1169,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.80798,
         "Longitude":-96.89654,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1204,7 +1204,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.40295,
         "Longitude":-81.82877,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1236,7 +1236,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":38.89402,
         "Longitude":-94.36132,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1271,7 +1271,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.89714,
         "Longitude":-96.68442,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1303,7 +1303,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.72348,
         "Longitude":-96.89185,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1335,7 +1335,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.41945,
         "Longitude":-74.53812,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1367,7 +1367,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.80995,
         "Longitude":-74.95572,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1402,7 +1402,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.78087,
         "Longitude":-81.36793,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1434,7 +1434,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.69768,
         "Longitude":-75.11307,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1466,7 +1466,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.69146,
         "Longitude":-74.18447,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1498,7 +1498,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":35.65648,
         "Longitude":-105.99594,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1530,7 +1530,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.7324,
         "Longitude":-84.57428,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1565,7 +1565,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":47.23981,
         "Longitude":-122.38813,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1598,7 +1598,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":35.09497,
         "Longitude":-106.62414,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1630,7 +1630,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":38.38146,
         "Longitude":-121.36437,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visafleet":"Visa Fleet",
             "cedc_cc_amex":"American Express",
@@ -1664,7 +1664,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":38.57649,
         "Longitude":-121.57027,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1699,7 +1699,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.7351,
         "Longitude":-122.21529,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1734,7 +1734,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.02344,
         "Longitude":-117.38087,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1769,7 +1769,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.8386,
         "Longitude":-77.78747,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1801,7 +1801,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":42.24458,
         "Longitude":-82.9528,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1834,7 +1834,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.66689,
         "Longitude":-70.95319,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1866,7 +1866,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":42.93316,
         "Longitude":-81.17486,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1899,7 +1899,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.63243,
         "Longitude":-122.39861,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1931,7 +1931,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":44.26677,
         "Longitude":-76.97032,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1964,7 +1964,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.07023,
         "Longitude":-117.49376,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -1999,7 +1999,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.13597,
         "Longitude":-94.52186,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2034,7 +2034,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.21071,
         "Longitude":-118.59765,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2066,7 +2066,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":35.40597,
         "Longitude":-97.60048,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2101,7 +2101,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.10571,
         "Longitude":-118.00712,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2133,7 +2133,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.78903,
         "Longitude":-96.65267,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2168,7 +2168,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.79891,
         "Longitude":-122.28358,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2203,7 +2203,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.87754,
         "Longitude":-97.03675,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2238,7 +2238,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.1828,
         "Longitude":-118.31955,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2270,7 +2270,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.78092,
         "Longitude":-96.77529,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2302,7 +2302,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.78884,
         "Longitude":-121.28968,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2337,7 +2337,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.80569,
         "Longitude":-73.88081,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercardfleet":"Mastercard Fleet"
@@ -2361,7 +2361,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.03091,
         "Longitude":-118.4666,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2393,7 +2393,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.1238,
         "Longitude":-118.25806,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2428,7 +2428,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.09711,
         "Longitude":-75.29764,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2463,7 +2463,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":29.98164,
         "Longitude":-90.2547,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2495,7 +2495,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.59775,
         "Longitude":-117.01851,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2527,7 +2527,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":43.60972,
         "Longitude":-116.32149,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2559,7 +2559,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.15003,
         "Longitude":-118.07762,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2591,7 +2591,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.74621,
         "Longitude":-122.18841,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2626,7 +2626,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.85488,
         "Longitude":-97.035,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2658,7 +2658,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":42.39227,
         "Longitude":-71.06271,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2690,7 +2690,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":36.16894,
         "Longitude":-119.3368,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2725,7 +2725,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":27.54842,
         "Longitude":-99.47216,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2757,7 +2757,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":29.79395,
         "Longitude":-95.2663,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2792,7 +2792,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.78364,
         "Longitude":-118.22309,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2827,7 +2827,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.74173,
         "Longitude":-72.65845,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2859,7 +2859,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.78627,
         "Longitude":-73.10597,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2891,7 +2891,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.05929,
         "Longitude":-117.72213,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2923,7 +2923,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.70139,
         "Longitude":-89.64256,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2955,7 +2955,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.7255,
         "Longitude":-111.92251,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -2990,7 +2990,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.36025,
         "Longitude":-121.90376,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3022,7 +3022,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.5717,
         "Longitude":-87.65458,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3054,7 +3054,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.02365,
         "Longitude":-118.03441,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3089,7 +3089,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.18692,
         "Longitude":-76.65611,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3124,7 +3124,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.83951,
         "Longitude":-117.2549,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3159,7 +3159,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":36.75524,
         "Longitude":-76.2272,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3191,7 +3191,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.80747,
         "Longitude":-118.28403,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3223,7 +3223,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.94164,
         "Longitude":-118.37835,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3255,7 +3255,7 @@
         "VehicleTypesCarsAndVans":"Yes",
         "Latitude":34.05936,
         "Longitude":-118.37595,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3287,7 +3287,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.83947,
         "Longitude":-96.85312,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3319,7 +3319,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.81078,
         "Longitude":-118.16317,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3351,7 +3351,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.97465,
         "Longitude":-76.72402,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3383,7 +3383,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.99483,
         "Longitude":-118.15209,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3418,7 +3418,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.71828,
         "Longitude":-116.17262,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3448,7 +3448,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":37.52246,
         "Longitude":-77.43306,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3480,7 +3480,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":28.4422,
         "Longitude":-81.29957,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3512,7 +3512,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":38.52282,
         "Longitude":-121.38715,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3544,7 +3544,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.63236,
         "Longitude":-84.46637,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3576,7 +3576,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.84644,
         "Longitude":-118.34474,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3608,7 +3608,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":30.20841,
         "Longitude":-97.67106,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3640,7 +3640,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.93069,
         "Longitude":-72.59706,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3672,7 +3672,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.77512,
         "Longitude":-117.90632,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3704,7 +3704,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":31.91257,
         "Longitude":-102.21788,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3739,7 +3739,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.79583,
         "Longitude":-117.91493,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3771,7 +3771,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":51.15276,
         "Longitude":-114.02468,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3804,7 +3804,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":53.58529,
         "Longitude":-113.3333,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3837,7 +3837,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":55.17611,
         "Longitude":-118.85042,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3870,7 +3870,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":36.95122,
         "Longitude":-120.05311,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3905,7 +3905,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.30316,
         "Longitude":-76.52691,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3940,7 +3940,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":34.08619,
         "Longitude":-117.26422,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -3975,7 +3975,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":42.93961,
         "Longitude":-78.82515,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4007,7 +4007,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":47.25123,
         "Longitude":-122.25069,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4042,7 +4042,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.85176,
         "Longitude":-82.90244,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4077,7 +4077,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":28.23256,
         "Longitude":-81.65656,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4112,7 +4112,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.1232,
         "Longitude":-74.70952,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4147,7 +4147,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.70584,
         "Longitude":-75.44508,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4182,7 +4182,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":49.18669,
         "Longitude":-122.65866,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
 
         }
     },
@@ -4204,7 +4204,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":35.43476,
         "Longitude":-97.60755,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4239,7 +4239,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.98261,
         "Longitude":-97.32792,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4274,7 +4274,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.29107,
         "Longitude":-81.47072,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4309,7 +4309,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.62713,
         "Longitude":-96.74759,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4344,7 +4344,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.61449,
         "Longitude":-88.10464,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4379,7 +4379,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":42.12367,
         "Longitude":-83.22753,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4414,7 +4414,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.67546,
         "Longitude":-74.24763,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4446,7 +4446,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":32.68323,
         "Longitude":-97.24435,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4481,7 +4481,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":50.94952,
         "Longitude":-113.98187,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
 
         }
     },
@@ -4503,7 +4503,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.44047,
         "Longitude":-112.24096,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4538,7 +4538,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":42.91446,
         "Longitude":-87.9163,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4573,7 +4573,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":null,
         "Longitude":null,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
 
         }
     },
@@ -4595,7 +4595,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.44643,
         "Longitude":-87.12817,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4630,7 +4630,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":40.18935,
         "Longitude":-74.79594,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4660,7 +4660,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":36.14428,
         "Longitude":-97.08744,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4692,7 +4692,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":38.97085,
         "Longitude":-92.294,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4724,7 +4724,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":43.59302,
         "Longitude":-116.53322,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4756,7 +4756,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":41.2955,
         "Longitude":-72.89899,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4788,7 +4788,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":39.41926,
         "Longitude":-74.53781,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
@@ -4820,7 +4820,7 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":50.65946,
         "Longitude":-120.40074,
-        "CreditCardAccepted":{
+        "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
             "cedc_cc_visafleet":"Visa Fleet",
