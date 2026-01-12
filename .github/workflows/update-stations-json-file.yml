@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           # Use the PAT to allow pushing changes
-          token: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
+          token: ${{ secrets.UPDATE_STATIONS }}
 
       # Step 2: Fetch the JSON data from the URL and save it to a file
       - name: Fetch JSON data
@@ -38,4 +38,5 @@ jobs:
           else
             git commit -m "Automated stations.json data update from external URL"
             git push
+
           fi
