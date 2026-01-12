@@ -10,6 +10,10 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      # Grant write permission to the workflow's GITHUB_TOKEN
+      contents: write 
+
     steps:
       # Step 1: Check out the repository
       - name: Checkout repository
@@ -20,7 +24,7 @@ jobs:
 
       # Step 2: Fetch the JSON data from the URL and save it to a file
       - name: Fetch JSON data
-        run: curl "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D" -o Data/stations1.json
+        run: curl -o Data/stations1.json "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D"
 
       # Step 3: Configure Git user
       - name: Configure git
@@ -40,4 +44,5 @@ jobs:
             git push
 
           fi
+
 
