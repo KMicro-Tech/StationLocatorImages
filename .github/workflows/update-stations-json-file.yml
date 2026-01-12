@@ -11,7 +11,7 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      # Grant write permission to the workflow's GITHUB_TOKEN
+      # Grant write permission to the workflow's UPDATE_STATIONS
       contents: write 
 
     steps:
@@ -44,5 +44,6 @@ jobs:
             git push
 
           fi
+
 
 
