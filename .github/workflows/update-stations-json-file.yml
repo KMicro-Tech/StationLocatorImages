@@ -1,49 +1,33 @@
-name: Fetch and Update JSON Data
+name: Fetch URL Content and Commit
 
 on:
   schedule:
-    # Runs every hour
+    # Run every hour (adjust cron as needed, e.g., '0 * * * *')
     - cron: '0 * * * *'
-  # Allows the workflow to be run manually from the Actions tab
   workflow_dispatch:
+    # Allows manual triggering from the GitHub Actions tab
 
 jobs:
-  update-data:
+  fetch-data:
     runs-on: ubuntu-latest
     permissions:
-      # Grant write permission to the workflow's UPDATE_STATIONS
+      # Grant write permission to the workflow's GITHUB_TOKEN
       contents: write 
 
     steps:
-      # Step 1: Check out the repository
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          # Use the PAT to allow pushing changes
-          token: ${{ secrets.UPDATE_STATIONS }}
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      # Step 2: Fetch the JSON data from the URL and save it to a file
-      - name: Fetch JSON data
-        run: curl -o Data/stations1.json "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D"
+    - name: Fetch content from URL and save to file
+      run: curl -o Data/stations1.json "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D" # Replace with your URL and desired filename
 
-      # Step 3: Configure Git user
-      - name: Configure git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
-      # Step 4: Commit and push the changes if the file is modified
-      - name: Commit and push if changed
-        run: |
-          git add Data/stations1.json
-          # Check if there are changes to commit
-          if git diff --staged --exit-code; then
-            echo "No changes to commit."
-          else
-            git commit -m "Automated stations.json data update from external URL"
-            git push
-
-          fi
-
-
-
+    - name: Commit files if changed
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: GitHub Actions
+        author_email: actions@github.com
+        message: "Automated data update from external URL"
+        add: 'Data/stations1.json' # The file you created in the previous step
+      env:
+        # Use the built-in GITHUB_TOKEN with the necessary permissions
+        GITHUB_TOKEN: ${{ secrets.UPDATE_STATIONS }}
