@@ -1,0 +1,41 @@
+name: Fetch and Update JSON Data
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  # Allows the workflow to be run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use the PAT to allow pushing changes
+          token: ${{ secrets.ACTIONS_GITHUB_TOKEN }}
+
+      # Step 2: Fetch the JSON data from the URL and save it to a file
+      - name: Fetch JSON data
+        run: curl "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D" -o Data/stations1.json
+
+      # Step 3: Configure Git user
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      # Step 4: Commit and push the changes if the file is modified
+      - name: Commit and push if changed
+        run: |
+          git add data.json
+          # Check if there are changes to commit
+          if git diff --staged --exit-code; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated stations.json data update from external URL"
+            git push
+          fi
