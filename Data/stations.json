@@ -3132,38 +3132,6 @@
         }
     },
     {
-        "StationIdNumber":"13200",
-        "Street":"10400 Aviation Blvd",
-        "StationCity":"Los Angeles",
-        "StationState":"CA",
-        "StationCountry":"US",
-        "StationZipcode":"90045",
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":33.94164,
-        "Longitude":-118.37835,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"13291",
         "Street":"592 Superior Ave",
         "StationCity":"Newport Beach",
@@ -4837,6 +4805,38 @@
             "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercard":"Mastercard",
             "cedc_cc_mastercardfleet":"Mastercard Fleet"
+        }
+    },
+    {
+        "StationIdNumber":"13200",
+        "Street":"10400 Aviation Blvd",
+        "StationCity":"Los Angeles",
+        "StationState":"CA",
+        "StationCountry":"US",
+        "StationZipcode":"90045",
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Under Maintenance",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":33.94164,
+        "Longitude":-118.37835,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
         }
     }
 ]
