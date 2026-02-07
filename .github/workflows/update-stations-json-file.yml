@@ -27,9 +27,10 @@ jobs:
         author_name: GitHub Actions
         author_email: actions@github.com
         message: "Automated data update from external URL"
-        add: 'Data/stations.json' # The file you created in the previous step
+        add: 'Data/allstations.json' # The file you created in the previous step
       env:
         # Use the built-in GITHUB_TOKEN with the necessary permissions
         GITHUB_TOKEN: ${{ secrets.UPDATE_STATIONS }}
+
 
 
