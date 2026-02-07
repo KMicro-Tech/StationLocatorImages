@@ -19,7 +19,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Fetch content from URL and save to file
-      run: curl -o Data/stations.json "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D" # Replace with your URL and desired filename
+      run: curl -o Data/allstations.json "https://stcorpgeneral001.blob.core.windows.net/json-site-locator/sitelocator_PROD.json?sp=r&st=2026-01-08T17:37:58Z&se=2028-01-09T01:52:58Z&spr=https&sv=2024-11-04&sr=b&sig=%2BfQoOBdETdGsRGdPRfQ1hgBz59%2FjVwstwDqZnWRKLPQ%3D" # Replace with your URL and desired filename
 
     - name: Commit files if changed
       uses: EndBug/add-and-commit@v9
@@ -31,4 +31,5 @@ jobs:
       env:
         # Use the built-in GITHUB_TOKEN with the necessary permissions
         GITHUB_TOKEN: ${{ secrets.UPDATE_STATIONS }}
+
 
