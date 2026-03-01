@@ -1464,38 +1464,6 @@
         }
     },
     {
-        "StationIdNumber":"20066",
-        "Street":"8550 Fruitridge Rd",
-        "StationCity":"Sacramento",
-        "StationState":"CA",
-        "StationCountry":"US",
-        "StationZipcode":"95828",
-        "HoursOpenIs24H":"no",
-        "HoursOpen":"Monday-Friday 6:00 a.m.-6:00 p.m.",
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":38.52282,
-        "Longitude":-121.38715,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"17671",
         "Street":"4555 Edison Dr",
         "StationCity":"College Park",
@@ -4804,6 +4772,38 @@
             "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercard":"Mastercard",
             "cedc_cc_mastercardfleet":"Mastercard Fleet"
+        }
+    },
+    {
+        "StationIdNumber":"20066",
+        "Street":"8550 Fruitridge Rd",
+        "StationCity":"Sacramento",
+        "StationState":"CA",
+        "StationCountry":"US",
+        "StationZipcode":"95828",
+        "HoursOpenIs24H":"no",
+        "HoursOpen":"Monday-Friday 6:00 a.m.-6:00 p.m.",
+        "StationStatus":"Under Maintenance",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":38.52282,
+        "Longitude":-121.38715,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
         }
     },
     {
