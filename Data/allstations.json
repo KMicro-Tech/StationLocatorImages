@@ -4681,7 +4681,7 @@
         "StationZipcode":"T6S 1E8",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
+        "StationStatus":"Under Maintenance",
         "StationFuelTypeRNG":"No",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
