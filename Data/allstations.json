@@ -4237,41 +4237,6 @@
         }
     },
     {
-        "StationIdNumber":"21061",
-        "Street":"1110 E. Central Avenue",
-        "StationCity":"San Bernardino",
-        "StationState":"CA",
-        "StationCountry":"US",
-        "StationZipcode":"92408",
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":34.08619,
-        "Longitude":-117.26422,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_tch":"TCH",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_tcheck":"T-Check",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet",
-            "cesrv_ccfleetone":"Fleet one",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"21076",
         "Street":"5 Central Schoolhouse Road",
         "StationCity":"Carneys Point",
@@ -4703,6 +4668,41 @@
             "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercard":"Mastercard",
             "cedc_cc_mastercardfleet":"Mastercard Fleet"
+        }
+    },
+    {
+        "StationIdNumber":"21061",
+        "Street":"1110 E. Central Avenue",
+        "StationCity":"San Bernardino",
+        "StationState":"CA",
+        "StationCountry":"US",
+        "StationZipcode":"92408",
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Under Maintenance",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":34.08619,
+        "Longitude":-117.26422,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_tch":"TCH",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_tcheck":"T-Check",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet",
+            "cesrv_ccfleetone":"Fleet one",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
         }
     }
 ]
