@@ -2506,38 +2506,6 @@
         }
     },
     {
-        "StationIdNumber":"20889",
-        "Street":"30 White House Pike",
-        "StationCity":"Chesilhurst",
-        "StationState":"NJ",
-        "StationCountry":"US",
-        "StationZipcode":"08089",
-        "HoursOpenIs24H":"no",
-        "HoursOpen":null,
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"No",
-        "VehicleTypesBoxTrucks":"Yes",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":39.72942,
-        "Longitude":-74.8651,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"13940",
         "Street":"2400 E Spring St",
         "StationCity":"Long Beach",
@@ -4536,6 +4504,38 @@
             "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercard":"Mastercard",
             "cedc_cc_mastercardfleet":"Mastercard Fleet"
+        }
+    },
+    {
+        "StationIdNumber":"20889",
+        "Street":"30 White House Pike",
+        "StationCity":"Chesilhurst",
+        "StationState":"NJ",
+        "StationCountry":"US",
+        "StationZipcode":"08089",
+        "HoursOpenIs24H":"no",
+        "HoursOpen":null,
+        "StationStatus":"Active",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"No",
+        "VehicleTypesBoxTrucks":"Yes",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":39.72942,
+        "Longitude":-74.8651,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
         }
     },
     {
