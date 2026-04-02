@@ -1101,36 +1101,6 @@
         }
     },
     {
-        "StationIdNumber":"13965",
-        "Street":"45-601 Dillon Rd",
-        "StationCity":"Coachella",
-        "StationState":"CA",
-        "StationCountry":"US",
-        "StationZipcode":"92236",
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"No",
-        "StationFuelTypeLNG":"Yes",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":33.71828,
-        "Longitude":-116.17262,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_mastercard":"Mastercard",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"20065",
         "Street":"6155 Cargo Rd",
         "StationCity":"Orlando",
@@ -4502,6 +4472,36 @@
             "cedc_cc_mastercard":"Mastercard",
             "cedc_cc_mastercardfleet":"Mastercard Fleet",
             "cesrv_ccfleetone":"Fleet one",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
+        }
+    },
+    {
+        "StationIdNumber":"13965",
+        "Street":"45-601 Dillon Rd",
+        "StationCity":"Coachella",
+        "StationState":"CA",
+        "StationCountry":"US",
+        "StationZipcode":"92236",
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Under Maintenance",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"No",
+        "StationFuelTypeLNG":"Yes",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":33.71828,
+        "Longitude":-116.17262,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_mastercard":"Mastercard",
             "cesrv_cc_fuelman":"Fuelman",
             "cesrv_cc_wex":"Wex"
         }
