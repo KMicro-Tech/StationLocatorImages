@@ -4615,7 +4615,7 @@
         "StationZipcode":"80239",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Under Maintenance",
+        "StationStatus":"Active",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
