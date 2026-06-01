@@ -4582,7 +4582,7 @@
         "StationZipcode":"08089",
         "HoursOpenIs24H":"no",
         "HoursOpen":null,
-        "StationStatus":"Under Maintenance",
+        "StationStatus":"Active",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
