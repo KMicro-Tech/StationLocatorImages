@@ -781,30 +781,6 @@
         }
     },
     {
-        "StationIdNumber":"20428",
-        "Street":"1361 Ryawa Ave",
-        "StationCity":"Bronx",
-        "StationState":"NY",
-        "StationCountry":"US",
-        "StationZipcode":"10474",
-        "HoursOpenIs24H":"no",
-        "HoursOpen":"Monday-Friday 6:00 a.m.-6:00 p.m. Saturday 5:00 a.m.-1:00 p.m.",
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"No",
-        "VehicleTypesBoxTrucks":"Yes",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":40.80569,
-        "Longitude":-73.88081,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet"
-        }
-    },
-    {
         "StationIdNumber":"20840",
         "Street":"28283 Alta Vista Road",
         "StationCity":"Santa Clarita",
@@ -4602,6 +4578,30 @@
             "cedc_cc_discover":"Discover",
             "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet"
+        }
+    },
+    {
+        "StationIdNumber":"20428",
+        "Street":"1361 Ryawa Ave",
+        "StationCity":"Bronx",
+        "StationState":"NY",
+        "StationCountry":"US",
+        "StationZipcode":"10474",
+        "HoursOpenIs24H":"no",
+        "HoursOpen":"Monday-Friday 6:00 a.m.-6:00 p.m. Saturday 5:00 a.m.-1:00 p.m.",
+        "StationStatus":"Under Maintenance",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"No",
+        "VehicleTypesBoxTrucks":"Yes",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":40.80569,
+        "Longitude":-73.88081,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_comdata":"ComData",
             "cedc_cc_mastercardfleet":"Mastercard Fleet"
         }
     }
