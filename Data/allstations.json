@@ -4547,7 +4547,7 @@
         "StationZipcode":"95828",
         "HoursOpenIs24H":"no",
         "HoursOpen":"Monday-Friday 6:00 a.m.-6:00 p.m.",
-        "StationStatus":"Under Maintenance",
+        "StationStatus":"Active",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
