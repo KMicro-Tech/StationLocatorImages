@@ -4375,36 +4375,6 @@
         }
     },
     {
-        "StationIdNumber":"21350",
-        "Street":"375 Newbold Road",
-        "StationCity":"Fairless Hills",
-        "StationState":"PA",
-        "StationCountry":"US",
-        "StationZipcode":"19030",
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Under Maintenance",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":40.19184,
-        "Longitude":-74.79484,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet"
-        }
-    },
-    {
         "StationIdNumber":"21377",
         "Street":null,
         "StationCity":null,
@@ -4467,7 +4437,7 @@
         "StationZipcode":"83687",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Under Maintenance",
+        "StationStatus":"Active",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
@@ -4625,6 +4595,36 @@
             "cesrv_ccfleetone":"Fleet one",
             "cesrv_cc_fuelman":"Fuelman",
             "cesrv_cc_wex":"Wex"
+        }
+    },
+    {
+        "StationIdNumber":"21350",
+        "Street":"375 Newbold Road",
+        "StationCity":"Fairless Hills",
+        "StationState":"PA",
+        "StationCountry":"US",
+        "StationZipcode":"19030",
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Active",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":40.19184,
+        "Longitude":-74.79484,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet"
         }
     }
 ]
