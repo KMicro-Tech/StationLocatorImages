@@ -4601,7 +4601,7 @@
         "StationZipcode":"92408",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
+        "StationStatus":"Under Maintenance",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
