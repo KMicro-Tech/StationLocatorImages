@@ -4376,6 +4376,28 @@
         }
     },
     {
+        "StationIdNumber":"21377",
+        "Street":null,
+        "StationCity":null,
+        "StationState":null,
+        "StationCountry":null,
+        "StationZipcode":null,
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Coming Soon",
+        "StationFuelTypeRNG":"No",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"No",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":null,
+        "Longitude":null,
+        "PaymentTypes":{
+
+        }
+    },
+    {
         "StationIdNumber":"13290",
         "Street":"3210 Maple St",
         "StationCity":"Santa Ana",
@@ -4480,7 +4502,7 @@
         "StationZipcode":"92675",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Under Maintenance",
+        "StationStatus":"Active",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
@@ -4501,28 +4523,6 @@
             "cedc_cc_mastercardfleet":"Mastercard Fleet",
             "cesrv_cc_fuelman":"Fuelman",
             "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
-        "StationIdNumber":"21377",
-        "Street":null,
-        "StationCity":null,
-        "StationState":null,
-        "StationCountry":null,
-        "StationZipcode":null,
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Coming Soon",
-        "StationFuelTypeRNG":"No",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"No",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":null,
-        "Longitude":null,
-        "PaymentTypes":{
-
         }
     },
     {
