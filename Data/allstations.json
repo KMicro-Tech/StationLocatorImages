@@ -3367,38 +3367,6 @@
         }
     },
     {
-        "StationIdNumber":"20362",
-        "Street":"1900 Lake Ridgeway Road",
-        "StationCity":"Columbia",
-        "StationState":"MO",
-        "StationCountry":"US",
-        "StationZipcode":"65202",
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Under Maintenance",
-        "StationFuelTypeRNG":"No",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":38.97085,
-        "Longitude":-92.294,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"13261",
         "Street":"2100 S Harbor Blvd",
         "StationCity":"Anaheim",
@@ -4241,6 +4209,28 @@
         }
     },
     {
+        "StationIdNumber":"21377",
+        "Street":null,
+        "StationCity":null,
+        "StationState":null,
+        "StationCountry":null,
+        "StationZipcode":null,
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Coming Soon",
+        "StationFuelTypeRNG":"No",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"No",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":null,
+        "Longitude":null,
+        "PaymentTypes":{
+
+        }
+    },
+    {
         "StationIdNumber":"13370",
         "Street":"14501 Park Lane",
         "StationCity":"Desert Hot Springs",
@@ -4270,28 +4260,6 @@
             "cedc_cc_mastercardfleet":"Mastercard Fleet",
             "cesrv_cc_fuelman":"Fuelman",
             "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
-        "StationIdNumber":"21377",
-        "Street":null,
-        "StationCity":null,
-        "StationState":null,
-        "StationCountry":null,
-        "StationZipcode":null,
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Coming Soon",
-        "StationFuelTypeRNG":"No",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"No",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":null,
-        "Longitude":null,
-        "PaymentTypes":{
-
         }
     },
     {
@@ -4411,6 +4379,38 @@
         "VehicleTypesCarsAndVans":"No",
         "Latitude":33.63182,
         "Longitude":-117.92771,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
+        }
+    },
+    {
+        "StationIdNumber":"20362",
+        "Street":"1900 Lake Ridgeway Road",
+        "StationCity":"Columbia",
+        "StationState":"MO",
+        "StationCountry":"US",
+        "StationZipcode":"65202",
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Active",
+        "StationFuelTypeRNG":"No",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":38.97085,
+        "Longitude":-92.294,
         "PaymentTypes":{
             "cedc_cc_cleanenergy":"Clean Energy",
             "cedc_cc_visa":"Visa",
