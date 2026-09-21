@@ -388,38 +388,6 @@
         }
     },
     {
-        "StationIdNumber":"17671",
-        "Street":"4555 Edison Dr",
-        "StationCity":"College Park",
-        "StationState":"GA",
-        "StationCountry":"US",
-        "StationZipcode":"30337",
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
-        "StationFuelTypeRNG":"Yes",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"Yes",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":33.63236,
-        "Longitude":-84.46637,
-        "PaymentTypes":{
-            "cedc_cc_cleanenergy":"Clean Energy",
-            "cedc_cc_visa":"Visa",
-            "cedc_cc_visafleet":"Visa Fleet",
-            "cedc_cc_amex":"American Express",
-            "cedc_cc_voyager":"Voyager",
-            "cedc_cc_discover":"Discover",
-            "cedc_cc_comdata":"ComData",
-            "cedc_cc_mastercard":"Mastercard",
-            "cedc_cc_mastercardfleet":"Mastercard Fleet",
-            "cesrv_cc_fuelman":"Fuelman",
-            "cesrv_cc_wex":"Wex"
-        }
-    },
-    {
         "StationIdNumber":"20840",
         "Street":"28283 Alta Vista Road",
         "StationCity":"Santa Clarita",
@@ -4553,6 +4521,38 @@
         "Longitude":null,
         "PaymentTypes":{
 
+        }
+    },
+    {
+        "StationIdNumber":"17671",
+        "Street":"4555 Edison Dr",
+        "StationCity":"College Park",
+        "StationState":"GA",
+        "StationCountry":"US",
+        "StationZipcode":"30337",
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Under Maintenance",
+        "StationFuelTypeRNG":"Yes",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"Yes",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":33.63236,
+        "Longitude":-84.46637,
+        "PaymentTypes":{
+            "cedc_cc_cleanenergy":"Clean Energy",
+            "cedc_cc_visa":"Visa",
+            "cedc_cc_visafleet":"Visa Fleet",
+            "cedc_cc_amex":"American Express",
+            "cedc_cc_voyager":"Voyager",
+            "cedc_cc_discover":"Discover",
+            "cedc_cc_comdata":"ComData",
+            "cedc_cc_mastercard":"Mastercard",
+            "cedc_cc_mastercardfleet":"Mastercard Fleet",
+            "cesrv_cc_fuelman":"Fuelman",
+            "cesrv_cc_wex":"Wex"
         }
     },
     {
