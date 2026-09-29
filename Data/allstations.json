@@ -4408,28 +4408,6 @@
         }
     },
     {
-        "StationIdNumber":"21377",
-        "Street":null,
-        "StationCity":null,
-        "StationState":null,
-        "StationCountry":null,
-        "StationZipcode":null,
-        "HoursOpenIs24H":"yes",
-        "HoursOpen":"Open 24x7",
-        "StationStatus":"Coming Soon",
-        "StationFuelTypeRNG":"No",
-        "StationFuelTypeCNG":"Yes",
-        "StationFuelTypeLNG":"No",
-        "VehicleTypesSemiTrucks":"No",
-        "VehicleTypesBoxTrucks":"No",
-        "VehicleTypesCarsAndVans":"No",
-        "Latitude":null,
-        "Longitude":null,
-        "PaymentTypes":{
-
-        }
-    },
-    {
         "StationIdNumber":"20370",
         "Street":"2765 Woodwin Rd",
         "StationCity":"Doraville",
@@ -4462,6 +4440,28 @@
         }
     },
     {
+        "StationIdNumber":"21377",
+        "Street":null,
+        "StationCity":null,
+        "StationState":null,
+        "StationCountry":null,
+        "StationZipcode":null,
+        "HoursOpenIs24H":"yes",
+        "HoursOpen":"Open 24x7",
+        "StationStatus":"Coming Soon",
+        "StationFuelTypeRNG":"No",
+        "StationFuelTypeCNG":"Yes",
+        "StationFuelTypeLNG":"No",
+        "VehicleTypesSemiTrucks":"No",
+        "VehicleTypesBoxTrucks":"No",
+        "VehicleTypesCarsAndVans":"No",
+        "Latitude":null,
+        "Longitude":null,
+        "PaymentTypes":{
+
+        }
+    },
+    {
         "StationIdNumber":"17206",
         "Street":"6821 Delilah Rd",
         "StationCity":"Egg Harbor Township",
@@ -4470,7 +4470,7 @@
         "StationZipcode":"08234",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Under Maintenance",
+        "StationStatus":"Active",
         "StationFuelTypeRNG":"Yes",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
