@@ -4534,7 +4534,7 @@
         "StationZipcode":"T3N 1C5",
         "HoursOpenIs24H":"yes",
         "HoursOpen":"Open 24x7",
-        "StationStatus":"Active",
+        "StationStatus":"Under Maintenance",
         "StationFuelTypeRNG":"No",
         "StationFuelTypeCNG":"Yes",
         "StationFuelTypeLNG":"No",
